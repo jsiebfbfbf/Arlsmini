@@ -9,7 +9,7 @@ module.exports = {
     // ===========================================================
     // 1. CONFIGURATION DE BASE (Session & Database)
     // ===========================================================
-    SESSION_ID: process.env.SESSION_ID || "MINI BOT", 
+    SESSION_ID: process.env.SESSION_ID || "KAVUUA", 
     MONGODB_URI: process.env.MONGODB_URI || 'mongodb+srv://offarslan_db_user:arslanmd@cluster0.xrqkzwg.mongodb.net/?appName=Cluster0',
     
     // ===========================================================
@@ -17,7 +17,7 @@ module.exports = {
     // ===========================================================
     PREFIX: process.env.PREFIX || '.',
     OWNER_NUMBER: process.env.OWNER_NUMBER || '+923237045919', // Mettez votre numéro ici
-    BOT_NAME: "Arslan MD Mini",
+    BOT_NAME: "ISHAN-X MD",
     BOT_FOOTER: '© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀʀꜱʟᴀɴ-ᴍᴅ',
     
     // Mode de travail : public, private, group, inbox
