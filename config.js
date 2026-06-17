@@ -9,8 +9,8 @@ module.exports = {
     // ===========================================================
     // 1. CONFIGURATION DE BASE (Session & Database)
     // ===========================================================
-    SESSION_ID: process.env.SESSION_ID || "KAVUA", 
-    MONGODB_URI: process.env.MONGODB_URI || 'mongodb+srv://dtz_dula:dtz_nova_x_md@cluster0.evuexjr.mongodb.net/?appName=Cluster0',
+    SESSION_ID: process.env.SESSION_ID || "KAVUAHGY", 
+    MONGODB_URI: process.env.MONGODB_URI || 'mongodb+srv://shalabot:shalabot2006@cluster0.4sfrjeh.mongodb.net/',
     
     // ===========================================================
     // 2. INFORMATIONS DU BOT
