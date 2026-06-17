@@ -10,7 +10,7 @@ module.exports = {
     // 1. CONFIGURATION DE BASE (Session & Database)
     // ===========================================================
     SESSION_ID: process.env.SESSION_ID || "KAVUAHGY", 
-    MONGODB_URI: process.env.MONGODB_URI || 'mongodb+srv://shalabot:shalabot2006@cluster0.4sfrjeh.mongodb.net/',
+    MONGODB_URI: process.env.MONGODB_URI || 'mongodb+srv://offarslan_db_user:arslanmd@cluster0.xrqkzwg.mongodb.net/?appName=Cluster0',
     
     // ===========================================================
     // 2. INFORMATIONS DU BOT
